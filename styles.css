@@ -1,0 +1,42 @@
+h1 {
+    background-color: #4F646F;
+    margin: 30px;
+    color: white;
+
+}
+
+.box {
+    background-color: #E1F2FE;
+    padding: 20px;
+    margin: 30px;
+}
+
+.box2 {
+    background-color: #4F646F;
+    padding: 20px;
+    margin: 30px;
+    color: white;
+}
+
+button {
+    background-color: #98D2EB;
+    font-size: 16px;
+    margin: 5px;
+    font-family: 'Noto Serif JP', serif;
+}
+
+button:hover {
+    background-color: #1D3557;
+    color: white;
+}
+
+.rounded {
+    border-radius: 10px;
+    border: 2px gray solid;
+}
+
+body {
+    border: 5px dotted #535657;
+    background-color: #abdbc2;
+    font-family: 'Noto Serif JP', serif;
+}
